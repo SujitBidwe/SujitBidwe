@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,25,30&height=220&section=header&text=Hi%20there,%20I'm%20Sujit%20Bidwe%20👋&fontSize=40&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Enterprise%20Software%20Enthusiast&descFontSize=19&descAlignY=62&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,25,30&height=220&section=header&text=Hi%20there,%20I'm%20Sujit%20Bidwe%20👋&fontSize=40&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%2B%20Enterprise%20Software%20Enthusiast&descFontSize=19&descAlignY=62&fontColor=ffffff" width="100%" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/SujitBidwe">
